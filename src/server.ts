@@ -6,4 +6,4 @@ app
     host: '0.0.0.0',
     port: env.PORT,
   })
-  .then(() => console.log('Running on PORT:3000 🚀'))
+  .then(() => console.log('Running on PORT:3333 🚀'))
